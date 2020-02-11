@@ -7,6 +7,10 @@
 ```command
 
 $ nmtui 
+$ ifconfig
 ```
 <img src="https://github.com/danilodesousacubas/kubernetes-on-centos-from-zero/blob/master/interfaces-config.png?sanitize=true&raw=true" />
+
+
+
 
