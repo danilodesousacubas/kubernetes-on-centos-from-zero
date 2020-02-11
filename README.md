@@ -31,14 +31,12 @@ EOF
 
 ## Yum install
 ```command
-
-$ sudo yum install -y kubelet kubeadm kubectl
-
+    $ sudo yum install -y kubelet kubeadm kubectl
+```
 <img src="https://github.com/danilodesousacubas/kubernetes-on-centos-from-zero/blob/master/installs-packages.png?sanitize=true&raw=true" />
-
 
 ## Use sys adm, to enable and to start
 ```
 systemctl enable kubelet
 systemctl start kubelet
-
+```
